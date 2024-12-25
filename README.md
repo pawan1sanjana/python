@@ -1,2 +1,2 @@
 # python
-python fuck
+line map
